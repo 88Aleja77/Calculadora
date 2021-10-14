@@ -1,0 +1,47 @@
+.aside{
+    margin-inline: auto;
+    text-align: center;
+    padding: 10%;
+}
+
+.texth1{
+    font-family:'Garamond';
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    background: rgb(144, 202, 212);
+    text-shadow: rgb(12, 87, 83) 10px 10px 10px;
+    width: 35%;
+    height: 20%;
+    margin-inline: auto;
+}
+#result{
+    background: rgb(209, 178, 178);
+    display:inline-block;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(165, 142, 179, 0.966);
+    text-decoration: dotted;
+    width: 15%;
+    height: 50%;
+    text-align: center;
+
+}
+.label{
+    display:inline-block;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(45, 129, 129, 0.966);
+    text-decoration: dotted;
+    border-radius: 45px;
+    width: 35%;
+    height: 40%;
+    text-align: center;
+}
+button{
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    width: 135px;
+    height: 35px;
+}
